@@ -1,0 +1,16 @@
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\bin\Debug\net5.0\Reflection.exe
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\bin\Debug\net5.0\Reflection.deps.json
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\bin\Debug\net5.0\Reflection.runtimeconfig.json
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\bin\Debug\net5.0\Reflection.runtimeconfig.dev.json
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\bin\Debug\net5.0\Reflection.dll
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\bin\Debug\net5.0\ref\Reflection.dll
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\bin\Debug\net5.0\Reflection.pdb
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\obj\Debug\net5.0\Reflection.csproj.AssemblyReference.cache
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\obj\Debug\net5.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfoInputs.cache
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfo.cs
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\obj\Debug\net5.0\Reflection.csproj.CoreCompileInputs.cache
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\obj\Debug\net5.0\Reflection.dll
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\obj\Debug\net5.0\ref\Reflection.dll
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\obj\Debug\net5.0\Reflection.pdb
+C:\CSharp\Aprimoramento-Diversos\Diversos\Aprendizados\Reflection\obj\Debug\net5.0\Reflection.genruntimeconfig.cache
